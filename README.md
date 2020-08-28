@@ -7,5 +7,6 @@ DOI: 10.1002/prot.24078
 
 ### Fixes and improvements
 1.0.0: Replaced deques with binary trees to improve cluster efficiency.
+1.0.1: REfined the `rejig_clusters` function in CustomFunctions
 
 
